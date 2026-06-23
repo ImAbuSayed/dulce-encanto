@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce encanto
+
+This log tracks the cryptographic history and versioning for the song **Dulce encanto** (dulce-encanto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T10:56:03.687948 | `v1` | `dae2292e40d63a34554e278ca3dc5b0d5995137742f7c4d30de7295b17ec21a8` | `63ceececf654837985a0c50219bb3122bd73f740abc5d88badf416c86d462fbb` | `2026-06-23_dulce-encanto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

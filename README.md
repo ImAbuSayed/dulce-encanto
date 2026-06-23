@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-encanto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dulce encanto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-encanto/) |
+| **Get License** | [Secure Licensing Rights for Dulce encanto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-encanto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dae2292e40d63a34554e278ca3dc5b0d5995137742f7c4d30de7295b17ec21a8` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
